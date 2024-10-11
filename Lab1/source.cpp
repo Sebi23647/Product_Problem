@@ -30,7 +30,7 @@
 //specificam 2 tipuri de date si in functie de context alege una sau alta pentru produs
 //tema
 //instalam smartgit si git
-
+//
 
 
 #include <iostream>
